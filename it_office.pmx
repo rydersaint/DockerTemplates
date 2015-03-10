@@ -1,0 +1,13 @@
+---
+name: IT Office
+description: Setup of the general IT infra to run an IT business office
+keywords: Docker, Panamax, Linux
+type: Ubuntu
+documentation: |-
+  Instructions
+  Howtos
+  What for ?
+images:
+- name: ubuntu_latest
+  source: ubuntu:latest
+  type: Default
